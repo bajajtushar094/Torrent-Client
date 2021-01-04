@@ -1,4 +1,4 @@
-![Torrent Client](https://socialify.git.ci/bajajtushar094/Torrent-Client_Coding-Club-Project/image?language=1&stargazers=1&theme=Light)
+![Torrent Client](https://socialify.git.ci/bajajtushar094/Torrent-Client/image?forks=1&language=1&stargazers=1&theme=Light)
 
 # Torrent Client
 
