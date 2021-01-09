@@ -5,7 +5,7 @@
 ## What is this?
 Torrent Client is my personal project built with the guidance of [**Coding Club, IIT Guwahati**](https://codingiitg.github.io/). It is torrent client built from scratch using [**Node.js**] to connect to tracker for downloading peers.
 
-## Why did we build this?
+## Why did I build this?
 Torrent is something which every student make use of in daily life. I always wanted to know about its basics and coding part.  
 
 ## What is the functioning of it?
